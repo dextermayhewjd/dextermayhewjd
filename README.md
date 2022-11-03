@@ -1,9 +1,7 @@
 # Hi there, I'm Dexter Ding (Jiahua DIng) 👋 
 
 
-## I'm currently a third year MEng student from University of Bristol
-## Also a Vinly Lover,Cyclist,Custom Loop builder,Drone Player,shutterbug
-## and Developer!!!
+## I'm currently a third year MEng student from University of Bristol Also a Vinly Lover,Cyclist,Custom Loop builder,Drone Player,shutterbug and Developer!!!
 
 
 - 🌱 I’m currently learning everything that I am interested in 🤣
