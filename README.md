@@ -5,14 +5,16 @@
 ## Also a Vinly Lover,Cyclist,Custom Loop builder,Drone Player,shutterbug
 ## and Developer!!!
 
-
+<p align="right">
+  <img width="250" src="https://media.tenor.com/wkjOrQp6eJgAAAAd/i-am-iron-man-iron-man.gif">
+</p>
 - 🌱 I’m currently learning everything that I am interested in 🤣
 - 👯 I’m looking to get an internship full stack or data analysis
 - 🥅 2023 Goals: Learn more about Full Stack and ML and CV 
 - ⚡ Fun fact: I build my custom loop deskop PC on my own
-<p align="right">
-  <img width="250" src="https://media.tenor.com/wkjOrQp6eJgAAAAd/i-am-iron-man-iron-man.gif">
-</p>
+
+
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jiahua-ding-7933b1198/#gh-light-mode-only)
