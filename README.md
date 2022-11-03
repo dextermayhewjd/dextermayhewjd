@@ -1,11 +1,13 @@
 # Hi there, I'm Dexter Ding (Jiahua DIng) 👋 
 
 
-## I'm a MEng student from University of Bristol, Vinly Lover,Cyclist,Custom Loop builder,Drone Player,shutterbug,and Developer!!!
+## I'm currently a third year MEng student from University of Bristol
+## Also a Vinly Lover,Cyclist,Custom Loop builder,Drone Player,shutterbug
+## and Developer!!!
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to get an internship 
+- 🌱 I’m currently learning everything that I am interested in 🤣
+- 👯 I’m looking to get an internship full stack or data analysis
 - 🥅 2023 Goals: Learn more about Full Stack and ML and CV 
 - ⚡ Fun fact: I build my custom loop deskop PC on my own
 
@@ -38,7 +40,7 @@
 <br />
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dextermayhewjd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Jiahua Ding's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dextermayhewjd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 [instagram]: https://www.instagram.com/dexter.mayhew.jd
