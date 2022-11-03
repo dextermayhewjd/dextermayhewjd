@@ -10,7 +10,9 @@
 - 👯 I’m looking to get an internship full stack or data analysis
 - 🥅 2023 Goals: Learn more about Full Stack and ML and CV 
 - ⚡ Fun fact: I build my custom loop deskop PC on my own
-
+<p align="right">
+  <img width="250" src="https://media.tenor.com/wkjOrQp6eJgAAAAd/i-am-iron-man-iron-man.gif">
+</p>
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jiahua-ding-7933b1198/#gh-light-mode-only)
@@ -41,8 +43,4 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Jiahua Ding's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dextermayhewjd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
-[instagram]: https://www.instagram.com/dexter.mayhew.jd
-[linkedin]: https://www.linkedin.com/in/jiahua-ding-7933b1198/
 
