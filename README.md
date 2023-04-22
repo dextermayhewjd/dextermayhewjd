@@ -3,13 +3,13 @@
 
 ## I'm currently a third year MEng student from University of Bristol Also a Vinly Lover,Cyclist,Custom Loop builder,Drone Player,shutterbug and Developer!!!
 
-- 👯 I’m currently trying to find an 2023 summer internship related with full stack development or data analysis
-- 🌱 I’m currently learning everything that I am interested in 🤣
+- 👯 trying to find an 2024 graduate scheme role related with full stack development 
+- 🌱 I’m currently an incoming Summer lab Intern of University of Bristol who is building a contend-based recommend system 
 - 🏠 know common data structure and algorithm 
--   (Hashing,Linked Lists,Stacks and queues,trees 
--   and graph,heaps,greedy,backtracking and dynamic programming) 
--   familar with java , currently using javascript for fond-end and python and C++ for school-work
-- 🥅 2023 Goals: Learn more about Full Stack and ML and CV, 
+-    learning everything that a full stack software developer needs  
+-    React, Node.js, Express.js, Docker, Kubernate, Typescript, JWt, OAuth, MongoDB, PostgreSQL, Redis
+-   familar with java , currently using javascript for fond-end and python and C for school-work
+- 🥅 2023 Goals: Learn more about Full Stack 
 -    currently in a team with two math student and another computer science student preparing kaggle 
 - ⚡ Fun fact: I build my custom loop deskop PC on my own(including bending loop by using Heat Gun)
 
