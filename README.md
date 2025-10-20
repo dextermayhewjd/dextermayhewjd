@@ -1,18 +1,11 @@
 # Hi there, I'm Dexter Ding (Jiahua DIng) 👋 
 
+AI Engineer focused on Large Language Model (LLM) training, inference optimization, and agentic AI systems.
+Currently developing expertise in distributed fine-tuning (LoRA/DPO), GPU kernel optimization (CUDA/Triton), and Agentic AI frameworks (LangChain, Coze, AutoGen).
+Combines solid ML theory, PyTorch engineering, and system-level optimization to build scalable, high-efficiency AI solutions.
 
-## I'm currently a third year MEng student from University of Bristol Also a Vinly Lover,Cyclist,Custom Loop builder,Drone Player,shutterbug and Developer!!!
-
-- 👯 trying to find an 2024 graduate scheme role related with full stack development 
-- 🌱 was Summerlab Intern of University of Bristol who is building a content-based recommend system 
-- 🏠 know common data structure and algorithm 
--    learning everything that a full stack software developer needs  
--    React, Node.js, Express.js, Docker, Kubernate, Typescript, MongoDB, PostgreSQL, Redis
--   familar with java , currently using React for fond-end and Django for backend
-- 🥅 2024 Goals: Learn more about Full Stack and LLM
--    currently doing research related with LLM's fine-tuning and multi-model Learning
-- ⚡ Fun fact: I build my custom loop deskop PC on my own(including bending loop by using Heat Gun)
-
+"Building a complete stack understanding from model math to GPU execution pipeline,
+and from fine-tuning to intelligent agent orchestration."
 
 
 ### Connect with me:
@@ -29,21 +22,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;" />
-<!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://github.com/github/explore/blob/main/topics/django/django.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+| Domain                     | Skills / Tools                                                         |
+| -------------------------- | ---------------------------------------------------------------------- |
+| **LLM Training**           | PyTorch, HuggingFace Transformers, PEFT (LoRA), DeepSpeed, Megatron-LM |
+| **Alignment & RLHF**       | DPO, PPO, Reward Modeling, OpenRLHF, TRL                               |
+| **Inference Optimization** | vLLM, TensorRT-LLM, AutoGPTQ, CUDA, Triton, Nsight Systems             |
+| **Agentic AI**             | LangChain Agents, FAISS, Coze Studio, CrewAI, AutoGen                  |
+| **GPU & Systems**          | CUDA C++, PTX profiling, memory hierarchy tuning, quantization         |
+| **Data Engineering**       | Python, Pandas, SentencePiece, FastAPI, Docker                         |
+| **Math Foundations**       | Linear Algebra, Probability, Information Theory (KL, CE), Optimization |
 
 <br />
 <br />
