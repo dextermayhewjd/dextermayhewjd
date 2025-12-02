@@ -1,7 +1,7 @@
 # Hi there, I'm Dexter Ding (Jiahua DIng) 👋 
 
-AI Engineer focused on Large Language Model (LLM) training, inference optimization, and agentic AI systems.
-Currently developing expertise in distributed fine-tuning (LoRA/DPO), GPU kernel optimization (CUDA/Triton), and Agentic AI frameworks (LangChain, Coze, AutoGen).
+AI Engineer focused on Large Language Model (LLM) training, inference optimization.
+Currently developing expertise in distributed fine-tuning (LoRA/DPO), GPU kernel optimization (CUDA/Triton).
 Combines solid ML theory, PyTorch engineering, and system-level optimization to build scalable, high-efficiency AI solutions.
 
 "Building a complete stack understanding from model math to GPU execution pipeline,
