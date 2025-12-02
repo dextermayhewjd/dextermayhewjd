@@ -25,10 +25,9 @@ and from fine-tuning to intelligent agent orchestration."
 | Domain                     | Skills / Tools                                                               |
 | -------------------------- | ----------------------------------------------------------------------       |
 | **LLM Training**           | PyTorch, HuggingFace Transformers, PEFT (LoRA), DeepSpeed, Megatron-LM       |
-| **Alignment & RLHF**       | DPO, PPO, Reward Modeling, OpenRLHF, TRL                                     |
 | **Inference Optimization** | vLLM, TensorRT-LLM, AutoGPTQ, CUDA, Triton, Nsight Systems                   |
 | **GPU & Systems**          | CUDA C++, PTX profiling, memory hierarchy tuning, Cutlass , cuBLAS, cuDNN    |
-| **Efficient Computing**    | Pruning, Quantization,Knowledge Distillation, Distributed Training           |                                                          |
+| **Efficient Computing**    | Pruning, Quantization, Knowledge Distillation, Distributed Training           |                                                          |
 | **Math Foundations**       | Linear Algebra, Probability, Information Theory (KL, CE), Optimization       |
 
 <br />
