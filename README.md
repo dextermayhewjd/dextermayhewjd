@@ -8,14 +8,6 @@ Combines solid ML theory, PyTorch engineering, and system-level optimization to 
 and from fine-tuning to intelligent agent orchestration."
 
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jiahua-ding-7933b1198/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jiahua-ding-7933b1198/-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dieluft.ding.jd/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dieluft.ding.jd/#gh-dark-mode-only)
-
 <img align="right">
   <img width="250" src="https://media.tenor.com/wkjOrQp6eJgAAAAd/i-am-iron-man-iron-man.gif">
 </img>
