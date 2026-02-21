@@ -16,9 +16,9 @@ and from training to inferencing"
 
 | Domain                     | Skills / Tools                                                                |
 | -------------------------- | ----------------------------------------------------------------------        |
-| **LLM Training**           | PyTorch, LLaMA-Factory,Verl, Megatron, Deepspeed                              |
+| **LLM Training**           | PyTorch, LLaMA-Factory                                                        |
 | **Inference Optimization** | vLLM, CUDA, Tesor Core,  Nsight Systems                                       |
-| **GPU & Systems**          | CUDA C++, PTX profiling, memory hierarchy tuning, Cutlass , cuBLAS, cuDNN     |
+| **GPU & Systems**          | CUDA C++, PTX profiling, memory hierarchy tuning,  cuBLAS, cuDNN              |
 | **Efficient Computing**    | Pruning, Quantization, Knowledge Distillation, Kernel Fusion                  |        
 | **Math Foundations**       | Linear Algebra, Probability, Information Theory (KL, CE), Optimization        |
 
