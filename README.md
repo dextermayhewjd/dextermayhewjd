@@ -1,29 +1,11 @@
-# Hi there, I'm Dexter Ding (Jiahua DIng) 👋 
+# Hi, I'm Dexter Ding 👋
 
-AI Infra Engineer focused on Large Language Model (LLM) Pre&Post-training , inference optimization.
-Currently developing expertise in all training tech stack, GPU kernel optimization (CUDA/Triton).
-Combines solid ML theory, PyTorch engineering, and system-level optimization to build scalable, high-efficiency AI solutions.
+<img align="right" width="180" alt="Iron Man" src="https://media.tenor.com/wkjOrQp6eJgAAAAd/i-am-iron-man-iron-man.gif">
 
-"Building a complete stack understanding from model math to GPU execution pipeline,
-and from training to inferencing"
+I’m an AI engineer interested in how language models learn and how AI agents work. Lately, I’ve been exploring reinforcement learning and LLM post-training. I keep notes in Chinese as I go.
 
+Outside of AI, I’m interested in ETF rotation and small-cap investing.
 
-<img align="right">
-  <img width="250" src="https://media.tenor.com/wkjOrQp6eJgAAAAd/i-am-iron-man-iron-man.gif">
-</img>
-
-### Languages and Tools:
-
-| Domain                     | Skills / Tools                                                                |
-| -------------------------- | ----------------------------------------------------------------------        |
-| **LLM Training**           | PyTorch, LLaMA-Factory，GQA,SFT,GRPO                                          |
-| **Inference Optimization** | vLLM, CUDA, Tesor Core,  Nsight Systems                                       |
-| **GPU & Systems**          | CUDA C++, PTX profiling, memory hierarchy tuning,  cuBLAS,                    |
-| **Efficient Computing**    | Pruning, Quantization, Knowledge Distillation, Kernel Fusion                  |        
-
-
-<br />
-<br />
-  <summary>:zap: GitHub Stats</summary>
+I also enjoy reading about how people make decisions, find focus, and understand one another. A few books on my shelf are *12 Rules for Life*, *Getting the Love You Want*, *Thinking, Fast and Slow*, and *Flow*.
 
 
